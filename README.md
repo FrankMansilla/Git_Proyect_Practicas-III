@@ -7,7 +7,6 @@ Consigna
 6. Acepta el MR y mezcla el branch de prueba con el branch principal.
 7. Crea un archivo bash con los comandos utilizados en los pasos anteriores y ejecútalo para demostrar la automatización del proceso.
 
-
 Puntos a evaluar:
 
 -Correcta creación de un proyecto local utilizando git.
